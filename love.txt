@@ -2,3 +2,4 @@
 爱
 你
 !!
+git add -->git commit 
